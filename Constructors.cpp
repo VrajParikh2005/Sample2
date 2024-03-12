@@ -75,6 +75,7 @@ class Vector{
 int main()
 {
     int d;
+    cout<<"File edited";
     cout << "Enter the dimension of the vector: ";
     cin>>d;
     int value[d];
